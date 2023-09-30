@@ -18,7 +18,7 @@ The ATM Interface Java Project is a simulated ATM (Automated Teller Machine) sys
 - **Account Balance Inquiry**: Users can check their account balances.
 - **Cash Withdrawal**: Users can withdraw money from their accounts.
 - **Deposit Funds**: Users can deposit money into their accounts.
-- **Change PIN**: Users can change their PIN numbers.
+- **Transfer Funds**: Users can Transfer Funds from One account to another account
 - **Transaction History**: Users can view their transaction history.
 - **Exit**: Users can log out and exit the ATM.
 
