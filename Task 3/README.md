@@ -2,14 +2,11 @@
 
 # ATM Interface Java Project
 
-![ATM Image](atm_image.jpg)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
-- [Folder Structure](#folderstructure)
+- [Folder Structure](#folder structure)
 
 ## Introduction
 
