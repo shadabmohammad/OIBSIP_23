@@ -19,7 +19,7 @@ The workspace contains two folders by default, where:
 
 ## Introduction
 
-Welcome to the "Guess the Number" game! This project is a simple number guessing game implemented in Python. The game generates a random number, and the player's goal is to guess that number within a certain range of attempts.
+Welcome to the "Guess the Number" game! This project is a simple number guessing game implemented in Java . The game generates a random number, and the player's goal is to guess that number within a certain range of attempts.
 
 ## Features
 
