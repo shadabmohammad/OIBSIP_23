@@ -27,6 +27,7 @@ Welcome to the "Guess the Number" game! This project is a simple number guessing
 - Allows the player to input their guess.
 - Provides feedback on whether the guess is too high, too low, or correct.
 - Keeps track of the number of attempts.
+- Updates the Score Depending On the Number Of Guesses
 - Allows the player to play again if they wish.
 
 
