@@ -6,7 +6,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Folder Structure](#folder structure)
+- [Folder Structure](#folderstructure)
 
 ## Introduction
 
