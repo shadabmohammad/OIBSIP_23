@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class GuessTheNumber {
 
     // static method to take integer input without any limit and exception error
-    // exception handling and input limit handling
+    // exception handling and input limit handling.
     public static int takeIntegerInput(int limit) {
         int input = 0;
         boolean flag = false;
