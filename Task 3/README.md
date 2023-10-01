@@ -1,6 +1,26 @@
-## Getting Started
+## Welcome 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# ATM Interface Java Project
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Folder Structure](#folderstructure)
+
+## Introduction
+
+The ATM Interface Java Project is a simulated ATM (Automated Teller Machine) system developed in Java. This project aims to provide a basic understanding of how ATM systems work by simulating key features and functionalities.
+
+## Features
+
+- **User Authentication**: Users can log in with their account numbers and PINs.
+- **Account Balance Inquiry**: Users can check their account balances.
+- **Cash Withdrawal**: Users can withdraw money from their accounts.
+- **Deposit Funds**: Users can deposit money into their accounts.
+- **Transfer Funds**: Users can Transfer Funds from One account to another account
+- **Transaction History**: Users can view their transaction history.
+- **Exit**: Users can log out and exit the ATM.
 
 ## Folder Structure
 
@@ -8,11 +28,3 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
