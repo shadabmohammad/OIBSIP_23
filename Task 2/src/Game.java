@@ -30,7 +30,7 @@ class Game {
 	public boolean isCorrectGuess() {
 
 		if (systemInput == userInput) {
-			System.out.println("Congratulations, you guess the number " + systemInput +
+			System.out.println("Congratulations, you guessed the number " + systemInput +
 					" in " + noOfGuesses + " guesses");
 			switch (noOfGuesses) {
 				case 1:

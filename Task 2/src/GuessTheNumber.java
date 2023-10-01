@@ -12,15 +12,14 @@ public class GuessTheNumber {
             try {
                 Scanner sc = new Scanner(System.in);
                 input = sc.nextInt();
-                flag = true;
-                sc.close();
-                if (flag && input > limit || input < 1) {
+                if (input > limit || input < 1) {
                     System.out.println("Choose the number between 1 to " + limit);
                     flag = false;
+                } else {
+                    flag = true;
                 }
             } catch (Exception e) {
                 System.out.println("Enter only integer value");
-                flag = false;
             }
         }
         return input;
